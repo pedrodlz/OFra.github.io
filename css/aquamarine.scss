@@ -39,7 +39,7 @@ $body-color-inverse: invert($body-color) !default;
 $link-color: #12bbad;
 
 // Fonts
-$font-family-base: Roboto;
+
 $display-font-family: Roboto;
 $lead-font-size:   1.30rem;
 $font-size-base:  1rem;
@@ -48,7 +48,7 @@ $font-weight-normal: 200;
 $font-weight-bold: 700;
 $font-weight-base: $font-weight-normal;
 $line-height-base:  1.5;
-$headings-font-family: Roboto;
+$headings-font-family: Verdana, Geneva, sans-serif;
 $headings-font-weight: $font-weight-normal;
 $headings-line-height: 1.2;
 
@@ -74,6 +74,7 @@ $breadcrumb-bg: transparent !default;
 // Carousel
 $carousel-caption-width:            					100% !default;
 $carousel-indicator-height:                   6px !default;
+$font-family-base: Comic Sans MS, cursive, sans-serif;
 
 @import 'bootstrap-4.1.3';
 
